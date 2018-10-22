@@ -1,4 +1,4 @@
-Things I Have Learned at Bloc.io
+Things I Have Learned at Bloc.io!
 
 1. How to manage my time better! (Still learning...)
 2. HTML
@@ -7,3 +7,4 @@ Things I Have Learned at Bloc.io
 5. Command line and how it pertains to Git
 6. Git
 7. CS fundamentals
+8. All things are possible
