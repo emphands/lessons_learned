@@ -8,3 +8,5 @@ Things I Have Learned at Bloc.io!
 6. Git
 7. CS fundamentals
 8. All things are possible
+
+What up in the buttgfjefef
